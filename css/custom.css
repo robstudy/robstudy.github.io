@@ -1,0 +1,31 @@
+
+.jumbotron {
+	background-image: url('../image/NasaSpaceImage.jpg'); /*http://www.freeimages.co.uk/*/
+	background-repeat: no-repeat;
+	background-size: 100% 100%; 
+	background-attachment: fixed;
+	color: white;
+	-webkit-text-stroke: .1px black;
+	min-height: 400px;
+	height: 100%;
+	position:relative;
+}
+
+.jumbotron h1 {
+	margin-top: -5%;
+}
+
+.jumbotron h6 {
+	position:absolute;
+	bottom: 0;
+	right:0;
+}
+
+.jumbotron p {
+	font-size: 1.8em;
+}
+
+.img-responsive {
+	border:1px solid #021a40;
+	margin: 0 auto;
+}
