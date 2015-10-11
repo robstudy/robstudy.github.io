@@ -1,1 +1,1 @@
-Please visit http://robstudy.github.io/Web-Portfolio/ to view portfolio.
+Please visit http://robstudy.github.io/ to view page.
